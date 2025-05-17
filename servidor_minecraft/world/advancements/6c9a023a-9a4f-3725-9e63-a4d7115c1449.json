@@ -134,73 +134,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-17 23:45:04 +0000"
+      "log_spam_fixer": "2025-05-17 23:55:04 +0000"
     },
     "done": false
   },
@@ -225,6 +225,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-05-17 23:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-17 23:51:38 +0000"
     },
     "done": true
   },
@@ -336,9 +342,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2025-05-17 23:47:43 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-05-17 23:40:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-05-17 23:50:35 +0000"
     },
     "done": true
   },
@@ -381,6 +399,12 @@
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-05-17 23:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-17 23:47:43 +0000"
     },
     "done": true
   },
